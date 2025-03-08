@@ -1,4 +1,4 @@
-module protos
+module "github.com/uptostar/protos"
 
 go 1.23
 
